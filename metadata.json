@@ -1,0 +1,7 @@
+{
+  "name": "Real Estate APP",
+  "description": "Plataforma líder de inversión inmobiliaria con análisis predictivo impulsado por IA y mapas interactivos.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
